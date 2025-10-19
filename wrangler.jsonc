@@ -4,6 +4,7 @@
   "main": "build/worker.js",
   "compatibility_date": "2025-07-23",
   "compatibility_flags": ["nodejs_compat"],
+	"keep_vars": true,
   "observability": {
     "enabled": true
   },
