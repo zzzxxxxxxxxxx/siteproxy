@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "test4", // 替换为你的worker名字
+  "name": "siteproxy", // 替换为你的worker名字
   "main": "build/worker.js",
   "compatibility_date": "2025-07-23",
   "compatibility_flags": ["nodejs_compat"],
