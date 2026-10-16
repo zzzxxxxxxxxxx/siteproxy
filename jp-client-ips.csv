@@ -1,0 +1,17 @@
+clientIP,requests,hosts,sources,edgeRequestBytes,edgeResponseBytes
+163.43.139.100,1684029,1,eyeball|inBrowserChallenge,0,192771013477
+2a06:98c0:3600::103,1083996,2546,edgeWorkerFetch|inBrowserChallenge,6605229349,151051457098
+163.43.134.149,868369,1,eyeball|inBrowserChallenge,0,95002968713
+163.43.136.36,861545,1,eyeball|inBrowserChallenge,0,97845299347
+20.210.128.125,661,1,eyeball|earlyHintsCache,532808,1958363
+202.209.91.98,25,1,eyeball|earlyHintsCache|inBrowserChallenge,11064,103306
+220.151.9.22,11,1,eyeball,0,26880
+158.179.191.73,8,1,eyeball,0,20862
+150.249.214.250,6,1,eyeball|earlyHintsCache,2756,3054
+202.78.167.95,4,1,eyeball,0,2415
+45.76.192.182,3,2,eyeball,0,1794
+207.148.97.152,3,2,eyeball,0,9090
+52.123.169.181,2,1,eyeball,0,38662
+150.249.214.252,2,1,eyeball,0,1202
+52.112.74.61,1,1,eyeball,0,1012
+150.249.214.253,1,1,eyeball,0,1156
